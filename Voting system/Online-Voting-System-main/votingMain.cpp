@@ -170,18 +170,7 @@ void funFrontPage(){
    cout<<"\n\n   Hi, Welcome To Our Project : Election Without Corona Project";
    getch();
    system("cls");
-   cout<<"\n\n\t\t\t\t  JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY";
-   cout<<"\n\t\t\t\t\t\tSec(62) NOIDA  \n\n\n";
-   cout<<"\t\t\t\t  ALGORITHMS AND PROBLEMS SOLVING : 15B17CI411\n\n\n";
-   cout<<"\t\t\t\t      MINI-PROJECT  : ELECTION WITHOUT CORONA \n\n";
-   cout<<"\t\t\t\t\t        Batch : B3\n\n";
-   cout<<"\n\n\n\t\t\t\t\tDevelopedBy : ";
-   cout<<"\n\n\t\t\t\t\t\tKUNAL         : 19103103";
-   cout<<"\n\n\t\t\t\t\t\tUTKARSH GARG  : 19103108";
-   cout<<"\n\n\t\t\t\t\t\tAKASH DWIVEDI : 19103095";
-   cout<<"\n\n\t\t\t\t\t\tPURVI         : 19103114";
-   cout<<"\n\n\t\t\t\t\t\tAKASH SHARMA  : 19103112";
-
+	
    getch();
 }
 void funHeading(string Heading){
